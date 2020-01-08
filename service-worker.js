@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/voler/precache-manifest.d005eb22306dcea40c02a4079c5ce274.js"
+  "/voler/precache-manifest.ac6d5e7c09cb0d7d9f4d63fab3eb2d1d.js"
 );
 
 self.addEventListener('message', (event) => {

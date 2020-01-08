@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/voler/static/css/main.3412a0b5.chunk.css",
+    "main.css": "/voler/static/css/main.c8889c21.chunk.css",
     "main.js": "/voler/static/js/main.6776f63b.chunk.js",
     "main.js.map": "/voler/static/js/main.6776f63b.chunk.js.map",
     "runtime-main.js": "/voler/static/js/runtime-main.b4e6c342.js",
@@ -8,16 +8,16 @@
     "static/js/2.c56e4c03.chunk.js": "/voler/static/js/2.c56e4c03.chunk.js",
     "static/js/2.c56e4c03.chunk.js.map": "/voler/static/js/2.c56e4c03.chunk.js.map",
     "index.html": "/voler/index.html",
-    "precache-manifest.d005eb22306dcea40c02a4079c5ce274.js": "/voler/precache-manifest.d005eb22306dcea40c02a4079c5ce274.js",
+    "precache-manifest.ac6d5e7c09cb0d7d9f4d63fab3eb2d1d.js": "/voler/precache-manifest.ac6d5e7c09cb0d7d9f4d63fab3eb2d1d.js",
     "service-worker.js": "/voler/service-worker.js",
-    "static/css/main.3412a0b5.chunk.css.map": "/voler/static/css/main.3412a0b5.chunk.css.map",
+    "static/css/main.c8889c21.chunk.css.map": "/voler/static/css/main.c8889c21.chunk.css.map",
     "static/js/2.c56e4c03.chunk.js.LICENSE": "/voler/static/js/2.c56e4c03.chunk.js.LICENSE",
     "static/media/App.scss": "/voler/static/media/bg.26df16a4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b4e6c342.js",
     "static/js/2.c56e4c03.chunk.js",
-    "static/css/main.3412a0b5.chunk.css",
+    "static/css/main.c8889c21.chunk.css",
     "static/js/main.6776f63b.chunk.js"
   ]
 }
