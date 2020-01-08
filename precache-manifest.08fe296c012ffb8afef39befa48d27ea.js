@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4f6113a21bfca97dca02a9448937393",
+    "revision": "9a1f6dcefb2f6fc6102962457424ef30",
     "url": "/voler/index.html"
   },
   {
-    "revision": "560b8547e1189ed298e3",
-    "url": "/voler/static/css/main.c7367633.chunk.css"
+    "revision": "4fc17c5b6cd7c1b07e2c",
+    "url": "/voler/static/css/main.c85a0b1c.chunk.css"
   },
   {
     "revision": "9bf775e5adcee38cd5cf",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voler/static/js/2.c56e4c03.chunk.js.LICENSE"
   },
   {
-    "revision": "560b8547e1189ed298e3",
+    "revision": "4fc17c5b6cd7c1b07e2c",
     "url": "/voler/static/js/main.6776f63b.chunk.js"
   },
   {
